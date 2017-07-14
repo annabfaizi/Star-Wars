@@ -1,0 +1,1 @@
+This site is a search engine for Star Wars characters, it also allows the users to post new characters to the list.
